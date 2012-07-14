@@ -11,8 +11,7 @@
 		}
 	},
 	"permissions": [
-		"geolocation",
-		"https://t.line.naver.jp/"
+		"geolocation"
 		],
 	"manifest_version": 2
 }
