@@ -1,0 +1,18 @@
+{
+	"name": "LINE",
+	"version": "1.0",
+	"icons": { "24": "24.png", "128": "128.png" },
+	"app": {
+		"urls": [
+			"https://t.line.naver.jp/en/login"
+			],
+		"launch": {
+			"web_url": "https://t.line.naver.jp/en/login"
+		}
+	},
+	"permissions": [
+		"geolocation",
+		"https://t.line.naver.jp/"
+		],
+	"manifest_version": 2
+}

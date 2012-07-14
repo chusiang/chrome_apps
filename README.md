@@ -1,1 +1,1 @@
-This is a Web add-ons with Chromium Browser, and it will quick line to LINE.
+* line - A web add-ons, and it will quick line to LINE.
