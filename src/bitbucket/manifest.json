@@ -1,0 +1,17 @@
+{
+	"name": "Bitbucket",
+	"version": "1.0",
+	"icons": { "24": "24.png", "128": "128.png" },
+	"app": {
+		"urls": [
+			"https://bitbucket.org/"
+			],
+		"launch": {
+			"web_url": "https://bitbucket.org/"
+		}
+	},
+	"permissions": [
+		"https://bitbucket.org/"
+		],
+	"manifest_version": 1
+}
