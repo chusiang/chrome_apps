@@ -1,6 +1,6 @@
 {
 	"name": "Plurk",
-	"version": "1.0",
+	"version": "2.0",
 	"icons": { "24": "24.png", "128": "128.png" },
 	"app": {
 		"urls": [
@@ -13,5 +13,5 @@
 	"permissions": [
 		"http://www.plurk.com/"
 		],
-	"manifest_version": 1
+	"manifest_version": 2
 }
