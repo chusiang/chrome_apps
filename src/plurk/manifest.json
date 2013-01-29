@@ -1,0 +1,17 @@
+{
+	"name": "Plurk",
+	"version": "1.0",
+	"icons": { "24": "24.png", "128": "128.png" },
+	"app": {
+		"urls": [
+			"https://www.plurk.com/"
+			],
+		"launch": {
+			"web_url": "http://www.plurk.com/"
+		}
+	},
+	"permissions": [
+		"http://www.plurk.com/"
+		],
+	"manifest_version": 1
+}
