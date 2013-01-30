@@ -1,0 +1,17 @@
+{
+	"name": "凍仁的筆記",
+	"version": "1.0",
+	"icons": { "24": "24.png", "128": "128.png" },
+	"app": {
+		"urls": [
+			"http://note.drx.tw/"
+			],
+		"launch": {
+			"web_url": "http://note.drx.tw/"
+		}
+	},
+	"permissions": [
+		"http://note.drx.tw/"
+		],
+	"manifest_version": 2
+}
