@@ -10,5 +10,5 @@ if you want use this, you can go to **crx/** and download it.
 
 ![chrome_apps] (https://raw.github.com/chusiang/chrome_apps/master/line_apps.png)
 
-![LINE web edition interface] (https://raw.github.com/chusiang/chrome_apps/raw/master/line_interface_web.png)
+![LINE web edition interface] (https://raw.github.com/chusiang/chrome_apps/master/line_interface_web.png)
 
