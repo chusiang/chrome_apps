@@ -1,0 +1,17 @@
+{
+	"name": "Ingress",
+	"version": "1.0",
+	"icons": { "24": "24.png", "128": "128.png" },
+	"app": {
+		"urls": [
+			"https://www.ingress.com/intel"
+			],
+		"launch": {
+			"web_url": "https://www.ingress.com/intel"
+		}
+	},
+	"permissions": [
+		"https://www.ingress.com/intel"
+		],
+	"manifest_version": 2
+}
